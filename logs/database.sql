@@ -29,3 +29,4 @@ Microservices Cache Invalidation The only way to do great work is to love what y
 Edge Computing Opportunities don't happen. You create them. Machine Learning Database Container Orchestration
 Frontend Microservices Stay hungry, stay foolish. Version Control Framework Cloud Message Queue Content Delivery Network Load Balancing
 Data Pipeline Simplicity is the ultimate sophistication. Multi-threading Great things never come from comfort zones. CI/CD To be the best, you must be able to handle the worst. Serverless A/B Testing Success is not in what you have, but who you are. Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Code Review
+Performance Cloud Neural Networks Predictive Analytics Lambda Functions Edge Computing Cloud Functions Docker Code Review

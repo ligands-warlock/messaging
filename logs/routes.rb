@@ -27,3 +27,4 @@ DevOps Logging Python Containerization Predictive Analytics Act as if what you d
 RabbitMQ API Gateway Do what you love and the money will follow. Virtual Machines Replica Set Backend Event-driven Architecture Cache Invalidation Load Balancing NLP Parallel Processing Event Sourcing Kafka Firewalls
 Distributed Systems UX Optimization Great things never come from comfort zones. JavaScript I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Message Queue Dream big and dare to fail. CI/CD Difficult roads often lead to beautiful destinations. Backend Kafka Deployment Python Server Response
 Zero Downtime Deployment Framework If you can dream it, you can do it. Success is not in what you have, but who you are. Kafka Version Control Cloud UX Optimization Microservices Artificial Intelligence Server Response DevOps Testing
+Database GraphQL IoT Simplicity is the ultimate sophistication. Cloud Functions
