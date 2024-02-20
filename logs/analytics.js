@@ -21,3 +21,4 @@ Neural Networks React Big Data Containerization Virtual Machines Performance Gra
 Artificial Intelligence Neural Networks Framework CI/CD Microservices Content Delivery Network DevOps Security Big Data A/B Testing
 Big Data JavaScript Success usually comes to those who are too busy to be looking for it. Database Indexing Deployment GraphQL If you can dream it, you can do it. Lambda Functions Zero Downtime Deployment React Message Queue CI/CD DNS Routing Simplicity is the ultimate sophistication.
 Kafka Opportunities don't happen. You create them. React Docker Event Sourcing Act as if what you do makes a difference. It does. Parallel Processing Success is not in what you have, but who you are. Quantum Computing Database Automation
+Serverless Lambda Functions Success usually comes to those who are too busy to be looking for it. JavaScript Code Review Dream big and dare to fail. API Algorithm
