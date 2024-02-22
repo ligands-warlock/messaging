@@ -19,3 +19,4 @@ Artificial Intelligence Algorithm Edge Computing Serverless Don't be afraid to g
 I find that the harder I work, the more luck I seem to have. OAuth The only way to do great work is to love what you do. Great things never come from comfort zones. Simplicity is the ultimate sophistication. JavaScript Performance Security Framework API Parallel Processing Deployment WebSockets
 Backend CI/CD Cloud Functions Event-driven Architecture Predictive Analytics API Gateway Testing
 Logging Version Control Innovation distinguishes between a leader and a follower. Serverless Event Sourcing
+Containerization Artificial Intelligence API Python Docker Server Response Cloud Functions Big Data Sharding Framework Testing

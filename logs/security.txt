@@ -23,3 +23,4 @@ Do what you love and the money will follow. Simplicity is the ultimate sophistic
 Dream big and dare to fail. Distributed Systems Stay hungry, stay foolish. Content Delivery Network Load Balancing Logging
 Simplicity is the ultimate sophistication. DNS Routing Message Queue Latency Optimization Zero Downtime Deployment Testing Distributed Systems DevOps Cloud Multi-threading
 Kubernetes Innovation distinguishes between a leader and a follower. Container Orchestration Lambda Functions Cloud Functions Frontend Database Indexing Load Balancing Distributed Systems JWT Data Pipeline
+Blockchain Neural Networks IoT Code Review Database React Testing Firewalls OAuth Sharding
