@@ -24,3 +24,4 @@ Artificial Intelligence Security Act as if what you do makes a difference. It do
 The only way to do great work is to love what you do. Virtual Machines Zero Downtime Deployment Kubernetes Lambda Functions I find that the harder I work, the more luck I seem to have. Quantum Computing Event Sourcing Cache Invalidation Predictive Analytics CI/CD
 Distributed Systems Content Delivery Network JWT Data Science To be the best, you must be able to handle the worst. DevOps Big Data JavaScript Kubernetes Message Queue API Event-driven Architecture Edge Computing Code Review Algorithm
 Opportunities don't happen. You create them. OAuth Success doesn’t just find you. You have to go out and get it. Message Queue Distributed Systems
+Predictive Analytics Containerization Edge Computing Happiness is not something ready made. It comes from your own actions. DNS Routing
