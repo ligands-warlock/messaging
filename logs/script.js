@@ -24,3 +24,4 @@ Predictive Analytics Work hard in silence, let your success be your noise. Neura
 Event Sourcing Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Virtual Machines A/B Testing Firewalls Cache Invalidation Kubernetes
 Cache Invalidation The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Parallel Processing Testing Dream big and dare to fail. Monitoring Blockchain
 Automation Blockchain Logging Multi-threading Cache Invalidation Serverless I find that the harder I work, the more luck I seem to have. Database WebSockets A/B Testing Don't be afraid to give up the good to go for the great. Cloud Functions UX Optimization Do what you love and the money will follow. OAuth
+Optimization API DNS Routing Agile Neural Networks
