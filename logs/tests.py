@@ -25,3 +25,4 @@ Machine Learning Distributed Systems Deployment Stay hungry, stay foolish. Shard
 Load Balancing Neural Networks If you can dream it, you can do it. Pull Request DNS Routing Act as if what you do makes a difference. It does. Predictive Analytics Big Data Algorithm Edge Computing Success usually comes to those who are too busy to be looking for it. Logging React Serverless Framework
 Load Testing Container Orchestration Frontend Database Version Control Work hard in silence, let your success be your noise. JavaScript
 JWT Load Testing Data Science API Gateway Backend Kubernetes Load Balancing
+JWT DNS Routing Kafka Automation Performance The only way to do great work is to love what you do.
