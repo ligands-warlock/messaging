@@ -27,3 +27,4 @@ Python Load Balancing Serverless Event-driven Architecture Quantum Computing Con
 Success doesn’t just find you. You have to go out and get it. Virtual Machines Do what you love and the money will follow. Data Science JavaScript I find that the harder I work, the more luck I seem to have. A/B Testing Opportunities don't happen. You create them. DNS Routing GraphQL Logging JWT Deployment Simplicity is the ultimate sophistication. Message Queue
 Microservices Cache Invalidation The only way to do great work is to love what you do. WebSockets Do what you love and the money will follow. Pull Request Distributed Systems Replica Set Sharding Event Sourcing Stay hungry, stay foolish. Automation Performance GraphQL Neural Networks
 Edge Computing Opportunities don't happen. You create them. Machine Learning Database Container Orchestration
+Frontend Microservices Stay hungry, stay foolish. Version Control Framework Cloud Message Queue Content Delivery Network Load Balancing
