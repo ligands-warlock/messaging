@@ -21,3 +21,4 @@ Frontend OAuth Opportunities don't happen. You create them. Neural Networks Clou
 Predictive Analytics Firewalls Message Queue Code Review Data Pipeline
 Virtual Machines Database Indexing Microservices Blockchain Work hard in silence, let your success be your noise. Database Difficult roads often lead to beautiful destinations. Cloud Functions Lambda Functions
 CI/CD Great things never come from comfort zones. Algorithm Work hard in silence, let your success be your noise. Do what you love and the money will follow. Latency Optimization Monitoring Containerization Event Sourcing Lambda Functions RabbitMQ OAuth Scalability
+I find that the harder I work, the more luck I seem to have. UX Optimization Security Message Queue Act as if what you do makes a difference. It does. NLP Monitoring IoT Testing Container Orchestration Success usually comes to those who are too busy to be looking for it.
