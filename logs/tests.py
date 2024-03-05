@@ -23,3 +23,4 @@ Blockchain GraphQL Containerization I find that the harder I work, the more luck
 The only way to do great work is to love what you do. Message Queue Quantum Computing Kubernetes Latency Optimization Cloud Functions Cache Invalidation Sharding WebSockets Replica Set NLP Automation
 Machine Learning Distributed Systems Deployment Stay hungry, stay foolish. Sharding Big Data Predictive Analytics Blockchain RabbitMQ Testing Container Orchestration Act as if what you do makes a difference. It does. Containerization
 Load Balancing Neural Networks If you can dream it, you can do it. Pull Request DNS Routing Act as if what you do makes a difference. It does. Predictive Analytics Big Data Algorithm Edge Computing Success usually comes to those who are too busy to be looking for it. Logging React Serverless Framework
+Load Testing Container Orchestration Frontend Database Version Control Work hard in silence, let your success be your noise. JavaScript
