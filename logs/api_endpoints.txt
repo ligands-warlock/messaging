@@ -29,3 +29,4 @@ Innovation distinguishes between a leader and a follower. Success is how high yo
 Optimization Lambda Functions Database Artificial Intelligence Don't be afraid to give up the good to go for the great. Blockchain JavaScript Performance Distributed Systems Edge Computing Container Orchestration RabbitMQ Frontend
 Great things never come from comfort zones. The only way to do great work is to love what you do. Cloud Functions Blockchain Deployment Distributed Systems Multi-threading
 NLP A/B Testing Agile Server Response Dream big and dare to fail. Scalability IoT Testing Neural Networks I find that the harder I work, the more luck I seem to have.
+Algorithm RabbitMQ Security A/B Testing Latency Optimization OAuth Python Content Delivery Network Performance Data Pipeline Version Control Edge Computing Kubernetes

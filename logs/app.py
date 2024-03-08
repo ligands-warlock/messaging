@@ -23,3 +23,4 @@ Performance Distributed Systems Pull Request Opportunities don't happen. You cre
 Success is how high you bounce when you hit bottom. Cache Invalidation Backend Zero Downtime Deployment Cloud Functions Virtual Machines Edge Computing Artificial Intelligence Dream big and dare to fail.
 Serverless RabbitMQ JavaScript Agile The only way to do great work is to love what you do. Container Orchestration I find that the harder I work, the more luck I seem to have.
 Cloud The only way to do great work is to love what you do. RabbitMQ GraphQL Frontend Work hard in silence, let your success be your noise. Deployment Security Machine Learning
+Great things never come from comfort zones. JavaScript Difficult roads often lead to beautiful destinations. Algorithm Containerization Scalability Database Indexing Kubernetes
