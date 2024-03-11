@@ -19,3 +19,4 @@ Data Science Quantum Computing Artificial Intelligence Edge Computing Dream big 
 API OAuth Simplicity is the ultimate sophistication. Backend Success usually comes to those who are too busy to be looking for it.
 Neural Networks React Big Data Containerization Virtual Machines Performance GraphQL OAuth Blockchain Agile Opportunities don't happen. You create them.
 Artificial Intelligence Neural Networks Framework CI/CD Microservices Content Delivery Network DevOps Security Big Data A/B Testing
+Big Data JavaScript Success usually comes to those who are too busy to be looking for it. Database Indexing Deployment GraphQL If you can dream it, you can do it. Lambda Functions Zero Downtime Deployment React Message Queue CI/CD DNS Routing Simplicity is the ultimate sophistication.
