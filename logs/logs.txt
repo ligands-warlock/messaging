@@ -20,3 +20,4 @@ Kafka Stay hungry, stay foolish. Difficult roads often lead to beautiful destina
 Frontend OAuth Opportunities don't happen. You create them. Neural Networks Cloud Functions The only way to do great work is to love what you do. Blockchain A/B Testing Success is how high you bounce when you hit bottom. Database Indexing
 Predictive Analytics Firewalls Message Queue Code Review Data Pipeline
 Virtual Machines Database Indexing Microservices Blockchain Work hard in silence, let your success be your noise. Database Difficult roads often lead to beautiful destinations. Cloud Functions Lambda Functions
+CI/CD Great things never come from comfort zones. Algorithm Work hard in silence, let your success be your noise. Do what you love and the money will follow. Latency Optimization Monitoring Containerization Event Sourcing Lambda Functions RabbitMQ OAuth Scalability
