@@ -24,3 +24,4 @@ Message Queue Testing Algorithm RabbitMQ WebSockets Predictive Analytics Distrib
 If you can dream it, you can do it. Great things never come from comfort zones. Pull Request Automation Serverless Neural Networks Microservices Logging Testing Database
 Monitoring DNS Routing Act as if what you do makes a difference. It does. Logging Distributed Systems Python Zero Downtime Deployment UX Optimization Kubernetes Microservices
 DevOps Logging Python Containerization Predictive Analytics Act as if what you do makes a difference. It does. Cloud Lambda Functions Framework Sharding Optimization Firewalls Latency Optimization
+RabbitMQ API Gateway Do what you love and the money will follow. Virtual Machines Replica Set Backend Event-driven Architecture Cache Invalidation Load Balancing NLP Parallel Processing Event Sourcing Kafka Firewalls

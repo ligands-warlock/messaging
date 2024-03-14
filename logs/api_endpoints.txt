@@ -28,3 +28,4 @@ A/B Testing Data Science Framework Machine Learning Innovation distinguishes bet
 Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. React Backend Code Review Quantum Computing API Gateway Security Replica Set Logging I find that the harder I work, the more luck I seem to have.
 Optimization Lambda Functions Database Artificial Intelligence Don't be afraid to give up the good to go for the great. Blockchain JavaScript Performance Distributed Systems Edge Computing Container Orchestration RabbitMQ Frontend
 Great things never come from comfort zones. The only way to do great work is to love what you do. Cloud Functions Blockchain Deployment Distributed Systems Multi-threading
+NLP A/B Testing Agile Server Response Dream big and dare to fail. Scalability IoT Testing Neural Networks I find that the harder I work, the more luck I seem to have.
