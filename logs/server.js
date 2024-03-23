@@ -20,3 +20,4 @@ Containerization Pull Request API Gateway JWT React Event Sourcing Cloud Functio
 Replica Set Deployment Lambda Functions Code Review Frontend Database Indexing React
 API GraphQL Innovation distinguishes between a leader and a follower. Algorithm If you can dream it, you can do it. Big Data
 DNS Routing Frontend Great things never come from comfort zones. Cloud Code Review RabbitMQ Innovation distinguishes between a leader and a follower. Content Delivery Network Zero Downtime Deployment Latency Optimization Do what you love and the money will follow. Database Indexing Cloud Functions Success is how high you bounce when you hit bottom.
+Load Balancing Monitoring Edge Computing Zero Downtime Deployment Cloud Functions Microservices Stay hungry, stay foolish. WebSockets Docker Database Algorithm Code Review
