@@ -22,3 +22,4 @@ Version Control DevOps Message Queue JavaScript If you can dream it, you can do 
 Performance OAuth Lambda Functions WebSockets Monitoring Opportunities don't happen. You create them. Event-driven Architecture Database Success is how high you bounce when you hit bottom. Backend Distributed Systems Event Sourcing Blockchain Success doesn’t just find you. You have to go out and get it.
 Happiness is not something ready made. It comes from your own actions. Performance Agile Dream big and dare to fail. Data Science Great things never come from comfort zones. Event Sourcing Kafka Kubernetes Algorithm UX Optimization Load Balancing
 Algorithm Security Monitoring Scalability If you can dream it, you can do it. Optimization DNS Routing Stay hungry, stay foolish. Big Data Backend
+Success doesn’t just find you. You have to go out and get it. Pull Request Load Testing API Gateway DNS Routing Simplicity is the ultimate sophistication.

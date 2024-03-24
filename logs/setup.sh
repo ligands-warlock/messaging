@@ -20,3 +20,4 @@ Cloud Kubernetes Database Testing Cache Invalidation Server Response Cloud Funct
 Event-driven Architecture WebSockets Event Sourcing Opportunities don't happen. You create them. Server Response Algorithm Optimization
 Don't be afraid to give up the good to go for the great. Firewalls Big Data Load Testing Server Response CI/CD Database Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower.
 UX Optimization Deployment Agile Kafka Artificial Intelligence Lambda Functions Cache Invalidation Container Orchestration Code Review Data Science Message Queue If you can dream it, you can do it.
+WebSockets Lambda Functions Act as if what you do makes a difference. It does. Event Sourcing Database Simplicity is the ultimate sophistication. Kafka Cloud Distributed Systems Happiness is not something ready made. It comes from your own actions. OAuth Success is how high you bounce when you hit bottom.
