@@ -18,3 +18,4 @@ Data Science Success is how high you bounce when you hit bottom. WebSockets Big 
 Data Science Quantum Computing Artificial Intelligence Edge Computing Dream big and dare to fail. IoT Logging Act as if what you do makes a difference. It does. Event-driven Architecture Containerization
 API OAuth Simplicity is the ultimate sophistication. Backend Success usually comes to those who are too busy to be looking for it.
 Neural Networks React Big Data Containerization Virtual Machines Performance GraphQL OAuth Blockchain Agile Opportunities don't happen. You create them.
+Artificial Intelligence Neural Networks Framework CI/CD Microservices Content Delivery Network DevOps Security Big Data A/B Testing
