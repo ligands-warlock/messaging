@@ -18,3 +18,4 @@ Kubernetes JWT If you can dream it, you can do it. Content Delivery Network Do w
 Optimization Firewalls Success usually comes to those who are too busy to be looking for it. Database Dream big and dare to fail. Load Testing Container Orchestration Event Sourcing API Gateway
 Kafka Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Event Sourcing Kubernetes Predictive Analytics Cloud Functions Microservices Code Review
 Frontend OAuth Opportunities don't happen. You create them. Neural Networks Cloud Functions The only way to do great work is to love what you do. Blockchain A/B Testing Success is how high you bounce when you hit bottom. Database Indexing
+Predictive Analytics Firewalls Message Queue Code Review Data Pipeline
