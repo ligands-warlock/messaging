@@ -24,3 +24,4 @@ I find that the harder I work, the more luck I seem to have. Innovation distingu
 The only way to do great work is to love what you do. Testing Success is not in what you have, but who you are. CI/CD Predictive Analytics Logging Pull Request Sharding Cache Invalidation Parallel Processing Cloud Version Control
 GraphQL Load Balancing Logging Performance Data Science
 Python Load Balancing Serverless Event-driven Architecture Quantum Computing Container Orchestration Neural Networks Event Sourcing I find that the harder I work, the more luck I seem to have. Data Science Containerization
+Success doesn’t just find you. You have to go out and get it. Virtual Machines Do what you love and the money will follow. Data Science JavaScript I find that the harder I work, the more luck I seem to have. A/B Testing Opportunities don't happen. You create them. DNS Routing GraphQL Logging JWT Deployment Simplicity is the ultimate sophistication. Message Queue
