@@ -20,3 +20,4 @@ Optimization Database Indexing I find that the harder I work, the more luck I se
 Quantum Computing Event Sourcing Kafka Framework Distributed Systems Load Balancing DevOps Microservices Success is not in what you have, but who you are. Pull Request Automation Blockchain NLP Container Orchestration API
 Kafka I find that the harder I work, the more luck I seem to have. Deployment JWT Dream big and dare to fail. Server Response Virtual Machines Algorithm Quantum Computing DNS Routing
 Do what you love and the money will follow. Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does.
+Dream big and dare to fail. Distributed Systems Stay hungry, stay foolish. Content Delivery Network Load Balancing Logging
