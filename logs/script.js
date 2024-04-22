@@ -19,3 +19,4 @@ Data Science Backend Automation Optimization Innovation distinguishes between a 
 Server Response Load Balancing Cloud Functions Algorithm API Deployment Distributed Systems Virtual Machines Opportunities don't happen. You create them.
 Security Deployment Docker Load Balancing Event Sourcing DevOps Serverless Database Neural Networks Work hard in silence, let your success be your noise.
 API Gateway GraphQL Predictive Analytics DevOps Don't be afraid to give up the good to go for the great. Container Orchestration Distributed Systems Difficult roads often lead to beautiful destinations. Server Response API Edge Computing Kafka JWT Logging Message Queue
+Data Pipeline Big Data Microservices Firewalls Database Indexing UX Optimization Replica Set Sharding Monitoring Distributed Systems Virtual Machines Great things never come from comfort zones. DevOps
