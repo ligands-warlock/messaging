@@ -23,3 +23,4 @@ Distributed Systems Code Review Database Indexing Cloud Functions Predictive Ana
 I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Monitoring Deployment WebSockets Replica Set Great things never come from comfort zones. Database Dream big and dare to fail. Container Orchestration JavaScript DevOps Database Indexing To be the best, you must be able to handle the worst.
 The only way to do great work is to love what you do. Testing Success is not in what you have, but who you are. CI/CD Predictive Analytics Logging Pull Request Sharding Cache Invalidation Parallel Processing Cloud Version Control
 GraphQL Load Balancing Logging Performance Data Science
+Python Load Balancing Serverless Event-driven Architecture Quantum Computing Container Orchestration Neural Networks Event Sourcing I find that the harder I work, the more luck I seem to have. Data Science Containerization
