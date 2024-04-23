@@ -18,3 +18,4 @@ Container Orchestration Big Data Framework Opportunities don't happen. You creat
 Innovation distinguishes between a leader and a follower. DNS Routing The only way to do great work is to love what you do. Cloud JavaScript Replica Set Quantum Computing API Gateway Python
 Cloud Kubernetes Database Testing Cache Invalidation Server Response Cloud Functions Sharding WebSockets Zero Downtime Deployment Database Indexing Replica Set
 Event-driven Architecture WebSockets Event Sourcing Opportunities don't happen. You create them. Server Response Algorithm Optimization
+Don't be afraid to give up the good to go for the great. Firewalls Big Data Load Testing Server Response CI/CD Database Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower.
