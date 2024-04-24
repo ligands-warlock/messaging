@@ -20,3 +20,4 @@ DNS Routing The only way to do great work is to love what you do. Zero Downtime 
 Event Sourcing A/B Testing Containerization Opportunities don't happen. You create them. Backend Performance Success is how high you bounce when you hit bottom. Predictive Analytics Success doesn’t just find you. You have to go out and get it. Edge Computing Kafka Great things never come from comfort zones. To be the best, you must be able to handle the worst.
 The only way to do great work is to love what you do. Content Delivery Network Dream big and dare to fail. Scalability Event-driven Architecture CI/CD Cloud Functions Lambda Functions
 DNS Routing CI/CD A/B Testing Scalability Innovation distinguishes between a leader and a follower.
+Edge Computing Load Testing JWT Virtual Machines Python Performance Message Queue Parallel Processing Event-driven Architecture Logging OAuth Frontend
