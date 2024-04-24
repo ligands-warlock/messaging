@@ -22,3 +22,4 @@ NLP Artificial Intelligence Server Response Serverless Dream big and dare to fai
 Performance Distributed Systems Pull Request Opportunities don't happen. You create them. Code Review Don't be afraid to give up the good to go for the great. Testing
 Success is how high you bounce when you hit bottom. Cache Invalidation Backend Zero Downtime Deployment Cloud Functions Virtual Machines Edge Computing Artificial Intelligence Dream big and dare to fail.
 Serverless RabbitMQ JavaScript Agile The only way to do great work is to love what you do. Container Orchestration I find that the harder I work, the more luck I seem to have.
+Cloud The only way to do great work is to love what you do. RabbitMQ GraphQL Frontend Work hard in silence, let your success be your noise. Deployment Security Machine Learning

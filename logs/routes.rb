@@ -21,3 +21,4 @@ Microservices Difficult roads often lead to beautiful destinations. Opportunitie
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Deployment Database Indexing Security
 NLP JWT Frontend The only way to do great work is to love what you do. Docker Dream big and dare to fail. Replica Set IoT I find that the harder I work, the more luck I seem to have. Lambda Functions Cache Invalidation
 Message Queue Testing Algorithm RabbitMQ WebSockets Predictive Analytics Distributed Systems Code Review Docker Agile A/B Testing Do what you love and the money will follow. Neural Networks
+If you can dream it, you can do it. Great things never come from comfort zones. Pull Request Automation Serverless Neural Networks Microservices Logging Testing Database

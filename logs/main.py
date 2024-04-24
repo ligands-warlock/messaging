@@ -21,3 +21,4 @@ Containerization Sharding Success is not in what you have, but who you are. Succ
 Sharding Cloud Cache Invalidation Lambda Functions Data Pipeline Big Data JavaScript Multi-threading Scalability Framework Backend Kubernetes A/B Testing UX Optimization NLP
 JWT A/B Testing Event-driven Architecture Innovation distinguishes between a leader and a follower. Python
 Artificial Intelligence Security Act as if what you do makes a difference. It does. Logging Monitoring Kubernetes
+The only way to do great work is to love what you do. Virtual Machines Zero Downtime Deployment Kubernetes Lambda Functions I find that the harder I work, the more luck I seem to have. Quantum Computing Event Sourcing Cache Invalidation Predictive Analytics CI/CD
