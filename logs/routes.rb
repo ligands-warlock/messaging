@@ -20,3 +20,4 @@ Code Review Database Indexing Server Response RabbitMQ Simplicity is the ultimat
 Microservices Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. JWT Multi-threading DevOps Innovation distinguishes between a leader and a follower.
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Deployment Database Indexing Security
 NLP JWT Frontend The only way to do great work is to love what you do. Docker Dream big and dare to fail. Replica Set IoT I find that the harder I work, the more luck I seem to have. Lambda Functions Cache Invalidation
+Message Queue Testing Algorithm RabbitMQ WebSockets Predictive Analytics Distributed Systems Code Review Docker Agile A/B Testing Do what you love and the money will follow. Neural Networks
