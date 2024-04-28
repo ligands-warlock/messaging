@@ -20,3 +20,4 @@ Agile Do what you love and the money will follow. NLP UX Optimization Success do
 Data Science Database Indexing CI/CD Blockchain Data Pipeline Distributed Systems Event Sourcing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Machine Learning
 NLP Artificial Intelligence Server Response Serverless Dream big and dare to fail.
 Performance Distributed Systems Pull Request Opportunities don't happen. You create them. Code Review Don't be afraid to give up the good to go for the great. Testing
+Success is how high you bounce when you hit bottom. Cache Invalidation Backend Zero Downtime Deployment Cloud Functions Virtual Machines Edge Computing Artificial Intelligence Dream big and dare to fail.
