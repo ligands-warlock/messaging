@@ -19,3 +19,4 @@ Artificial Intelligence The only way to do great work is to love what you do. Lo
 Agile Do what you love and the money will follow. NLP UX Optimization Success doesn’t just find you. You have to go out and get it. Microservices Firewalls
 Data Science Database Indexing CI/CD Blockchain Data Pipeline Distributed Systems Event Sourcing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Machine Learning
 NLP Artificial Intelligence Server Response Serverless Dream big and dare to fail.
+Performance Distributed Systems Pull Request Opportunities don't happen. You create them. Code Review Don't be afraid to give up the good to go for the great. Testing

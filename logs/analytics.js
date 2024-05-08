@@ -16,3 +16,4 @@ JavaScript UX Optimization Big Data Event-driven Architecture Parallel Processin
 Pull Request Multi-threading Monitoring Python Kubernetes IoT Frontend Container Orchestration Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Microservices Stay hungry, stay foolish. Security Scalability Big Data
 Data Science Success is how high you bounce when you hit bottom. WebSockets Big Data Predictive Analytics Great things never come from comfort zones.
 Data Science Quantum Computing Artificial Intelligence Edge Computing Dream big and dare to fail. IoT Logging Act as if what you do makes a difference. It does. Event-driven Architecture Containerization
+API OAuth Simplicity is the ultimate sophistication. Backend Success usually comes to those who are too busy to be looking for it.
