@@ -18,3 +18,4 @@ Don't be afraid to give up the good to go for the great. Agile API Edge Computin
 Predictive Analytics Security Automation Simplicity is the ultimate sophistication. Performance Container Orchestration UX Optimization Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.
 Containerization Pull Request API Gateway JWT React Event Sourcing Cloud Functions JavaScript Big Data I find that the harder I work, the more luck I seem to have. Python Version Control NLP
 Replica Set Deployment Lambda Functions Code Review Frontend Database Indexing React
+API GraphQL Innovation distinguishes between a leader and a follower. Algorithm If you can dream it, you can do it. Big Data
