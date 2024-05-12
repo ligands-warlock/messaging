@@ -13,3 +13,4 @@ Serverless Algorithm Act as if what you do makes a difference. It does. Neural N
 Edge Computing Firewalls API Gateway The only way to do great work is to love what you do. Security Parallel Processing Zero Downtime Deployment OAuth Logging Data Science API
 Replica Set Performance Machine Learning CI/CD Data Science NLP Act as if what you do makes a difference. It does. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Security Frontend JWT
 Zero Downtime Deployment Kafka Containerization Blockchain Event-driven Architecture Predictive Analytics The only way to do great work is to love what you do.
+Serverless React Do what you love and the money will follow. NLP A/B Testing Monitoring Sharding Data Science Testing Machine Learning Success is not in what you have, but who you are. Docker To be the best, you must be able to handle the worst. JavaScript

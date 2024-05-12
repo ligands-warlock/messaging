@@ -15,3 +15,4 @@ Opportunities don't happen. You create them. DevOps Event-driven Architecture I 
 Containerization Virtual Machines RabbitMQ IoT Multi-threading
 Container Orchestration Testing Automation Zero Downtime Deployment Load Balancing Containerization OAuth React JavaScript UX Optimization Cloud Deployment Code Review Innovation distinguishes between a leader and a follower. RabbitMQ
 Optimization Act as if what you do makes a difference. It does. If you can dream it, you can do it. The only way to do great work is to love what you do. Microservices Big Data Algorithm Performance Multi-threading Predictive Analytics Stay hungry, stay foolish. UX Optimization
+Frontend Cloud Functions GraphQL Message Queue Content Delivery Network Load Balancing Multi-threading Parallel Processing Pull Request If you can dream it, you can do it. Optimization Dream big and dare to fail. API RabbitMQ
