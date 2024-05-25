@@ -16,3 +16,4 @@ OAuth Version Control Kafka Scalability If you can dream it, you can do it. Cont
 JWT Sharding Security Quantum Computing WebSockets
 Scalability Zero Downtime Deployment Lambda Functions Kafka IoT
 Artificial Intelligence Algorithm Edge Computing Serverless Don't be afraid to give up the good to go for the great. Database Cloud Functions Data Science Container Orchestration
+I find that the harder I work, the more luck I seem to have. OAuth The only way to do great work is to love what you do. Great things never come from comfort zones. Simplicity is the ultimate sophistication. JavaScript Performance Security Framework API Parallel Processing Deployment WebSockets
