@@ -17,3 +17,4 @@ Data Pipeline Opportunities don't happen. You create them. Firewalls Parallel Pr
 JavaScript Server Response Data Science Innovation distinguishes between a leader and a follower. Blockchain UX Optimization If you can dream it, you can do it. Docker Cloud Functions
 Artificial Intelligence The only way to do great work is to love what you do. Load Balancing Act as if what you do makes a difference. It does. Deployment Multi-threading Do what you love and the money will follow.
 Agile Do what you love and the money will follow. NLP UX Optimization Success doesn’t just find you. You have to go out and get it. Microservices Firewalls
+Data Science Database Indexing CI/CD Blockchain Data Pipeline Distributed Systems Event Sourcing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Machine Learning
