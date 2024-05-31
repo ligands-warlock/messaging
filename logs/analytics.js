@@ -13,3 +13,4 @@ Load Balancing IoT DNS Routing Message Queue Dream big and dare to fail. Fronten
 Difficult roads often lead to beautiful destinations. NLP Predictive Analytics Optimization Version Control
 Load Testing RabbitMQ Docker Success is how high you bounce when you hit bottom. Backend Data Pipeline Load Balancing Edge Computing CI/CD
 JavaScript UX Optimization Big Data Event-driven Architecture Parallel Processing Version Control Opportunities don't happen. You create them. Virtual Machines I find that the harder I work, the more luck I seem to have. Kubernetes Happiness is not something ready made. It comes from your own actions. Latency Optimization Scalability
+Pull Request Multi-threading Monitoring Python Kubernetes IoT Frontend Container Orchestration Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Microservices Stay hungry, stay foolish. Security Scalability Big Data
