@@ -17,3 +17,4 @@ Data Science If you can dream it, you can do it. Code Review Do what you love an
 Don't be afraid to give up the good to go for the great. Agile API Edge Computing Python Kubernetes Stay hungry, stay foolish. Container Orchestration JWT Success is not in what you have, but who you are. A/B Testing Sharding Dream big and dare to fail. RabbitMQ
 Predictive Analytics Security Automation Simplicity is the ultimate sophistication. Performance Container Orchestration UX Optimization Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.
 Containerization Pull Request API Gateway JWT React Event Sourcing Cloud Functions JavaScript Big Data I find that the harder I work, the more luck I seem to have. Python Version Control NLP
+Replica Set Deployment Lambda Functions Code Review Frontend Database Indexing React
