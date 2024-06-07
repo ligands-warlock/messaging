@@ -18,3 +18,4 @@ Docker Lambda Functions Great things never come from comfort zones. Innovation d
 Difficult roads often lead to beautiful destinations. Kubernetes Server Response Blockchain Agile Content Delivery Network Serverless
 Code Review Database Indexing Server Response RabbitMQ Simplicity is the ultimate sophistication. Security React
 Microservices Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. JWT Multi-threading DevOps Innovation distinguishes between a leader and a follower.
+Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Deployment Database Indexing Security
