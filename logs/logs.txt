@@ -11,3 +11,4 @@ Do what you love and the money will follow. Difficult roads often lead to beauti
 Kubernetes Multi-threading Serverless Security Cloud OAuth Success is how high you bounce when you hit bottom. Neural Networks Event Sourcing Content Delivery Network RabbitMQ Container Orchestration A/B Testing
 Serverless Algorithm Act as if what you do makes a difference. It does. Neural Networks Zero Downtime Deployment Scalability API Pull Request OAuth
 Edge Computing Firewalls API Gateway The only way to do great work is to love what you do. Security Parallel Processing Zero Downtime Deployment OAuth Logging Data Science API
+Replica Set Performance Machine Learning CI/CD Data Science NLP Act as if what you do makes a difference. It does. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Security Frontend JWT
