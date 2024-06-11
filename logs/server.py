@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Latency Optimization Perform
 OAuth Version Control Kafka Scalability If you can dream it, you can do it. Container Orchestration
 JWT Sharding Security Quantum Computing WebSockets
 Scalability Zero Downtime Deployment Lambda Functions Kafka IoT
+Artificial Intelligence Algorithm Edge Computing Serverless Don't be afraid to give up the good to go for the great. Database Cloud Functions Data Science Container Orchestration
