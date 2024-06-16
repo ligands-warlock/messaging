@@ -13,3 +13,4 @@ Microservices Cloud Functions Backend Stay hungry, stay foolish. Database Latenc
 Edge Computing Virtual Machines Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it.
 Opportunities don't happen. You create them. DevOps Event-driven Architecture I find that the harder I work, the more luck I seem to have. Distributed Systems Server Response Content Delivery Network
 Containerization Virtual Machines RabbitMQ IoT Multi-threading
+Container Orchestration Testing Automation Zero Downtime Deployment Load Balancing Containerization OAuth React JavaScript UX Optimization Cloud Deployment Code Review Innovation distinguishes between a leader and a follower. RabbitMQ

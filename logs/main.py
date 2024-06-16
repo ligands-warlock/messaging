@@ -16,3 +16,4 @@ Logging Replica Set Cache Invalidation Docker Cloud Happiness is not something r
 Microservices Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment WebSockets Cloud Functions Lambda Functions A/B Testing
 Python Database GraphQL Sharding IoT Code Review Microservices Artificial Intelligence Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Big Data
 Automation Sharding Event-driven Architecture Scalability Quantum Computing Database To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication.
+Content Delivery Network Algorithm I find that the harder I work, the more luck I seem to have. Parallel Processing Server Response Firewalls Success doesn’t just find you. You have to go out and get it. A/B Testing
