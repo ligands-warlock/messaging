@@ -14,3 +14,4 @@ Event Sourcing Performance Container Orchestration Neural Networks Serverless To
 Success is how high you bounce when you hit bottom. Latency Optimization Performance RabbitMQ Cache Invalidation OAuth Optimization Version Control Blockchain API Act as if what you do makes a difference. It does. Framework Sharding Serverless
 OAuth Version Control Kafka Scalability If you can dream it, you can do it. Container Orchestration
 JWT Sharding Security Quantum Computing WebSockets
+Scalability Zero Downtime Deployment Lambda Functions Kafka IoT
