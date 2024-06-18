@@ -13,3 +13,4 @@ GraphQL Server Response JavaScript Work hard in silence, let your success be you
 Event Sourcing Performance Container Orchestration Neural Networks Serverless To be the best, you must be able to handle the worst. Cloud Functions
 Success is how high you bounce when you hit bottom. Latency Optimization Performance RabbitMQ Cache Invalidation OAuth Optimization Version Control Blockchain API Act as if what you do makes a difference. It does. Framework Sharding Serverless
 OAuth Version Control Kafka Scalability If you can dream it, you can do it. Container Orchestration
+JWT Sharding Security Quantum Computing WebSockets
