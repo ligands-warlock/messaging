@@ -12,3 +12,4 @@ Containerization Testing Cloud Data Science Database Indexing Database API Conta
 GraphQL Server Response JavaScript Work hard in silence, let your success be your noise. Edge Computing Stay hungry, stay foolish. Neural Networks IoT Quantum Computing OAuth CI/CD Data Pipeline Happiness is not something ready made. It comes from your own actions. Automation
 Event Sourcing Performance Container Orchestration Neural Networks Serverless To be the best, you must be able to handle the worst. Cloud Functions
 Success is how high you bounce when you hit bottom. Latency Optimization Performance RabbitMQ Cache Invalidation OAuth Optimization Version Control Blockchain API Act as if what you do makes a difference. It does. Framework Sharding Serverless
+OAuth Version Control Kafka Scalability If you can dream it, you can do it. Container Orchestration
