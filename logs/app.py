@@ -13,3 +13,4 @@ Docker DNS Routing Backend Multi-threading API Parallel Processing
 Framework Kubernetes Zero Downtime Deployment Dream big and dare to fail. RabbitMQ NLP Sharding
 Framework Dream big and dare to fail. Neural Networks Version Control Simplicity is the ultimate sophistication.
 Load Testing Data Science Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Security Predictive Analytics Optimization DNS Routing Data Pipeline Kubernetes IoT
+Data Pipeline Opportunities don't happen. You create them. Firewalls Parallel Processing Lambda Functions Monitoring IoT WebSockets CI/CD
