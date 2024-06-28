@@ -8,3 +8,4 @@ Multi-threading Stay hungry, stay foolish. I find that the harder I work, the mo
 JWT Success is how high you bounce when you hit bottom. Kafka Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Database Optimization Docker Code Review
 Quantum Computing Python Neural Networks Content Delivery Network Frontend API Big Data
 Frontend Neural Networks CI/CD Machine Learning Pull Request Cloud API Artificial Intelligence DNS Routing Success is not in what you have, but who you are.
+Success doesn’t just find you. You have to go out and get it. Framework Latency Optimization JWT Docker Testing Great things never come from comfort zones. The only way to do great work is to love what you do. Zero Downtime Deployment GraphQL
