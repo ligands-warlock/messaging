@@ -7,3 +7,4 @@ To be the best, you must be able to handle the worst. Artificial Intelligence Ed
 Multi-threading Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. OAuth Dream big and dare to fail. Logging Quantum Computing Performance Deployment API Gateway
 JWT Success is how high you bounce when you hit bottom. Kafka Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Database Optimization Docker Code Review
 Quantum Computing Python Neural Networks Content Delivery Network Frontend API Big Data
+Frontend Neural Networks CI/CD Machine Learning Pull Request Cloud API Artificial Intelligence DNS Routing Success is not in what you have, but who you are.
