@@ -15,3 +15,4 @@ Deployment Automation Distributed Systems Event Sourcing Edge Computing Cache In
 Scalability Load Balancing CI/CD Containerization Cloud Don't be afraid to give up the good to go for the great. Data Science
 Pull Request Containerization Event-driven Architecture Neural Networks Artificial Intelligence Code Review Optimization Backend Great things never come from comfort zones. Frontend Replica Set
 Container Orchestration Big Data Framework Opportunities don't happen. You create them. Logging WebSockets Great things never come from comfort zones. Act as if what you do makes a difference. It does. Quantum Computing Testing Neural Networks API Gateway Content Delivery Network
+Innovation distinguishes between a leader and a follower. DNS Routing The only way to do great work is to love what you do. Cloud JavaScript Replica Set Quantum Computing API Gateway Python
