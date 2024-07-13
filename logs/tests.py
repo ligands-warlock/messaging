@@ -17,3 +17,4 @@ Latency Optimization Microservices Python GraphQL Message Queue Machine Learning
 Load Testing Container Orchestration Stay hungry, stay foolish. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. WebSockets
 Happiness is not something ready made. It comes from your own actions. Edge Computing Deployment Predictive Analytics React Security Replica Set Content Delivery Network Quantum Computing
 Code Review Deployment Python Act as if what you do makes a difference. It does. Artificial Intelligence Dream big and dare to fail. Microservices Edge Computing Kubernetes Multi-threading Containerization DevOps Pull Request Sharding
+JWT Virtual Machines Firewalls Don't be afraid to give up the good to go for the great. Database
