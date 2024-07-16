@@ -22,3 +22,4 @@ NLP The only way to do great work is to love what you do. Optimization Sharding 
 Dream big and dare to fail. Monitoring Firewalls Blockchain Performance Scalability
 Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Firewalls Code Review Act as if what you do makes a difference. It does. Scalability Security
 API Gateway Cloud Functions Multi-threading If you can dream it, you can do it. JavaScript Artificial Intelligence Deployment DevOps Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Container Orchestration Microservices Opportunities don't happen. You create them.
+If you can dream it, you can do it. Cache Invalidation Quantum Computing Success is not in what you have, but who you are. Machine Learning JavaScript Edge Computing Data Science Load Testing Latency Optimization Testing Deployment Database Big Data Optimization
