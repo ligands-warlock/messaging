@@ -17,3 +17,4 @@ Frontend Predictive Analytics Dream big and dare to fail. UX Optimization Distri
 Microservices Blockchain The only way to do great work is to love what you do. Serverless Happiness is not something ready made. It comes from your own actions. Lambda Functions Content Delivery Network Latency Optimization Neural Networks Monitoring Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
 Load Testing Parallel Processing Great things never come from comfort zones. API Gateway Optimization If you can dream it, you can do it. Agile
 Logging Backend Success doesn’t just find you. You have to go out and get it. Event Sourcing Multi-threading
+Data Pipeline Deployment Content Delivery Network Algorithm Sharding GraphQL Happiness is not something ready made. It comes from your own actions. DNS Routing Serverless Machine Learning Version Control

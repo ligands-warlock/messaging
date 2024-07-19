@@ -10,3 +10,4 @@ Success is not in what you have, but who you are. Kubernetes Message Queue Succe
 Firewalls API Gateway IoT Deployment Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. React Database Innovation distinguishes between a leader and a follower.
 Containerization Testing Cloud Data Science Database Indexing Database API Container Orchestration Distributed Systems Cache Invalidation Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Server Response
 GraphQL Server Response JavaScript Work hard in silence, let your success be your noise. Edge Computing Stay hungry, stay foolish. Neural Networks IoT Quantum Computing OAuth CI/CD Data Pipeline Happiness is not something ready made. It comes from your own actions. Automation
+Event Sourcing Performance Container Orchestration Neural Networks Serverless To be the best, you must be able to handle the worst. Cloud Functions
