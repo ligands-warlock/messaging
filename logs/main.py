@@ -14,3 +14,4 @@ Success doesn’t just find you. You have to go out and get it. Predictive Analyti
 A/B Testing Dream big and dare to fail. Work hard in silence, let your success be your noise. Load Testing React Machine Learning
 Logging Replica Set Cache Invalidation Docker Cloud Happiness is not something ready made. It comes from your own actions. Multi-threading Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Database Indexing UX Optimization
 Microservices Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment WebSockets Cloud Functions Lambda Functions A/B Testing
+Python Database GraphQL Sharding IoT Code Review Microservices Artificial Intelligence Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Big Data
