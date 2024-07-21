@@ -14,3 +14,4 @@ Success usually comes to those who are too busy to be looking for it. UX Optimiz
 Deployment Automation Distributed Systems Event Sourcing Edge Computing Cache Invalidation Sharding Happiness is not something ready made. It comes from your own actions. Data Science Kafka Load Testing Monitoring Data Pipeline Security Act as if what you do makes a difference. It does.
 Scalability Load Balancing CI/CD Containerization Cloud Don't be afraid to give up the good to go for the great. Data Science
 Pull Request Containerization Event-driven Architecture Neural Networks Artificial Intelligence Code Review Optimization Backend Great things never come from comfort zones. Frontend Replica Set
+Container Orchestration Big Data Framework Opportunities don't happen. You create them. Logging WebSockets Great things never come from comfort zones. Act as if what you do makes a difference. It does. Quantum Computing Testing Neural Networks API Gateway Content Delivery Network
