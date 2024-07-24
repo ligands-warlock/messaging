@@ -16,3 +16,4 @@ Microservices Big Data NLP Difficult roads often lead to beautiful destinations.
 Frontend Predictive Analytics Dream big and dare to fail. UX Optimization Distributed Systems Automation Parallel Processing
 Microservices Blockchain The only way to do great work is to love what you do. Serverless Happiness is not something ready made. It comes from your own actions. Lambda Functions Content Delivery Network Latency Optimization Neural Networks Monitoring Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
 Load Testing Parallel Processing Great things never come from comfort zones. API Gateway Optimization If you can dream it, you can do it. Agile
+Logging Backend Success doesn’t just find you. You have to go out and get it. Event Sourcing Multi-threading
