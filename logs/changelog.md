@@ -11,3 +11,4 @@ Server Response Don't be afraid to give up the good to go for the great. Message
 Act as if what you do makes a difference. It does. Server Response Deployment CI/CD The only way to do great work is to love what you do. Firewalls Blockchain Opportunities don't happen. You create them. React Quantum Computing Cache Invalidation Frontend Lambda Functions
 Logging Deployment Success is how high you bounce when you hit bottom. Sharding Machine Learning Event-driven Architecture Firewalls Blockchain JWT Algorithm
 Containerization Agile UX Optimization API Gateway Message Queue Cloud Functions RabbitMQ Data Pipeline Microservices Event-driven Architecture
+Cache Invalidation Backend DNS Routing Scalability Server Response Containerization

@@ -13,3 +13,4 @@ Firewalls Backend Version Control DNS Routing Containerization Testing I find th
 Message Queue Deployment Edge Computing DevOps Scalability If you can dream it, you can do it. Multi-threading Logging Lambda Functions Quantum Computing Predictive Analytics
 JWT Message Queue Success is not in what you have, but who you are. IoT Serverless Edge Computing
 If you can dream it, you can do it. NLP Happiness is not something ready made. It comes from your own actions. UX Optimization Machine Learning OAuth Do what you love and the money will follow. Event Sourcing Pull Request Difficult roads often lead to beautiful destinations. Cache Invalidation
+Cache Invalidation Success is not in what you have, but who you are. API Gateway Monitoring Neural Networks Replica Set Container Orchestration Kubernetes Parallel Processing Artificial Intelligence
