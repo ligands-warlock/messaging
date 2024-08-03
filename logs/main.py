@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. Success is how high you bounce
 API If you can dream it, you can do it. Kubernetes Monitoring API Gateway JWT Event Sourcing Load Testing Work hard in silence, let your success be your noise.
 Success doesn’t just find you. You have to go out and get it. Predictive Analytics Container Orchestration Dream big and dare to fail. React A/B Testing Database Replica Set API Cache Invalidation
 A/B Testing Dream big and dare to fail. Work hard in silence, let your success be your noise. Load Testing React Machine Learning
+Logging Replica Set Cache Invalidation Docker Cloud Happiness is not something ready made. It comes from your own actions. Multi-threading Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Database Indexing UX Optimization
