@@ -14,3 +14,4 @@ Big Data Microservices Server Response Zero Downtime Deployment A/B Testing Kube
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Logging Multi-threading Event Sourcing
 Predictive Analytics Innovation distinguishes between a leader and a follower. Deployment Monitoring Latency Optimization Dream big and dare to fail. Performance Cloud Functions Multi-threading
 Multi-threading Cloud Functions Python Backend Optimization Container Orchestration Simplicity is the ultimate sophistication. Monitoring Predictive Analytics Difficult roads often lead to beautiful destinations.
+Microservices Great things never come from comfort zones. CI/CD Monitoring Version Control To be the best, you must be able to handle the worst. Lambda Functions Virtual Machines Happiness is not something ready made. It comes from your own actions. Distributed Systems Event Sourcing Python
