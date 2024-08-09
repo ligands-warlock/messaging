@@ -10,3 +10,4 @@ Blockchain Difficult roads often lead to beautiful destinations. Predictive Anal
 Data Pipeline Success usually comes to those who are too busy to be looking for it. Replica Set IoT Docker Deployment
 Frontend Zero Downtime Deployment JWT Version Control I find that the harder I work, the more luck I seem to have. Testing DNS Routing Machine Learning
 Quantum Computing Lambda Functions JWT OAuth Simplicity is the ultimate sophistication. CI/CD Replica Set Event-driven Architecture Containerization
+Cloud NLP Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Containerization Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Performance Blockchain Quantum Computing Serverless Distributed Systems Logging Load Balancing Multi-threading
