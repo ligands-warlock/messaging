@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Replica Se
 Kubernetes Dream big and dare to fail. Big Data Frontend DNS Routing
 Docker Lambda Functions Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. OAuth Load Balancing JavaScript Stay hungry, stay foolish. JWT DNS Routing
 Difficult roads often lead to beautiful destinations. Kubernetes Server Response Blockchain Agile Content Delivery Network Serverless
+Code Review Database Indexing Server Response RabbitMQ Simplicity is the ultimate sophistication. Security React
