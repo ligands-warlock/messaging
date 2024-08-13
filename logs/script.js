@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Docker A/B Testing Arti
 Parallel Processing Frontend Difficult roads often lead to beautiful destinations. Scalability GraphQL Data Pipeline DevOps Performance
 Big Data Sharding OAuth API Gateway Multi-threading UX Optimization Serverless The only way to do great work is to love what you do. Load Balancing Opportunities don't happen. You create them. NLP Edge Computing
 Data Science Backend Automation Optimization Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Neural Networks Code Review Predictive Analytics Serverless Security
+Server Response Load Balancing Cloud Functions Algorithm API Deployment Distributed Systems Virtual Machines Opportunities don't happen. You create them.

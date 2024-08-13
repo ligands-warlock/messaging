@@ -14,3 +14,4 @@ JWT Event Sourcing Success doesn’t just find you. You have to go out and get it.
 Quantum Computing Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Frontend Data Pipeline Multi-threading UX Optimization Lambda Functions Agile DNS Routing
 Neural Networks DNS Routing Content Delivery Network Backend Deployment Agile Pull Request Machine Learning Don't be afraid to give up the good to go for the great. Server Response
 Data Science If you can dream it, you can do it. Code Review Do what you love and the money will follow. Quantum Computing
+Don't be afraid to give up the good to go for the great. Agile API Edge Computing Python Kubernetes Stay hungry, stay foolish. Container Orchestration JWT Success is not in what you have, but who you are. A/B Testing Sharding Dream big and dare to fail. RabbitMQ
