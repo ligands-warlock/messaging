@@ -9,3 +9,4 @@ UX Optimization Microservices To be the best, you must be able to handle the wor
 Blockchain Difficult roads often lead to beautiful destinations. Predictive Analytics Cloud Functions Stay hungry, stay foolish. CI/CD Scalability
 Data Pipeline Success usually comes to those who are too busy to be looking for it. Replica Set IoT Docker Deployment
 Frontend Zero Downtime Deployment JWT Version Control I find that the harder I work, the more luck I seem to have. Testing DNS Routing Machine Learning
+Quantum Computing Lambda Functions JWT OAuth Simplicity is the ultimate sophistication. CI/CD Replica Set Event-driven Architecture Containerization
