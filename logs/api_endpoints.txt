@@ -19,3 +19,4 @@ RabbitMQ Containerization A/B Testing Quantum Computing If you can dream it, you
 Opportunities don't happen. You create them. NLP Don't be afraid to give up the good to go for the great. API Machine Learning Message Queue Parallel Processing
 To be the best, you must be able to handle the worst. Agile Predictive Analytics Load Balancing WebSockets Algorithm Logging Monitoring Pull Request Zero Downtime Deployment Docker Message Queue Quantum Computing DNS Routing
 NLP The only way to do great work is to love what you do. Optimization Sharding Stay hungry, stay foolish.
+Dream big and dare to fail. Monitoring Firewalls Blockchain Performance Scalability
