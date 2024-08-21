@@ -13,3 +13,4 @@ WebSockets Edge Computing Database Indexing Load Testing DNS Routing Virtual Mac
 JWT Event Sourcing Success doesn’t just find you. You have to go out and get it. Quantum Computing Replica Set Message Queue OAuth Edge Computing Firewalls Work hard in silence, let your success be your noise. CI/CD DevOps A/B Testing
 Quantum Computing Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Frontend Data Pipeline Multi-threading UX Optimization Lambda Functions Agile DNS Routing
 Neural Networks DNS Routing Content Delivery Network Backend Deployment Agile Pull Request Machine Learning Don't be afraid to give up the good to go for the great. Server Response
+Data Science If you can dream it, you can do it. Code Review Do what you love and the money will follow. Quantum Computing
