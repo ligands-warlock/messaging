@@ -11,3 +11,4 @@ Docker Machine Learning Kubernetes Big Data API Don't be afraid to give up the g
 Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Edge Computing Difficult roads often lead to beautiful destinations. Deployment Cache Invalidation Serverless
 API If you can dream it, you can do it. Kubernetes Monitoring API Gateway JWT Event Sourcing Load Testing Work hard in silence, let your success be your noise.
 Success doesn’t just find you. You have to go out and get it. Predictive Analytics Container Orchestration Dream big and dare to fail. React A/B Testing Database Replica Set API Cache Invalidation
+A/B Testing Dream big and dare to fail. Work hard in silence, let your success be your noise. Load Testing React Machine Learning
