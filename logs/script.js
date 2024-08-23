@@ -14,3 +14,4 @@ WebSockets GraphQL Version Control Server Response Logging Parallel Processing S
 Database Indexing Blockchain Database UX Optimization Data Science
 Don't be afraid to give up the good to go for the great. Docker A/B Testing Artificial Intelligence Server Response Stay hungry, stay foolish. Microservices Content Delivery Network Monitoring RabbitMQ Lambda Functions Pull Request Event-driven Architecture
 Parallel Processing Frontend Difficult roads often lead to beautiful destinations. Scalability GraphQL Data Pipeline DevOps Performance
+Big Data Sharding OAuth API Gateway Multi-threading UX Optimization Serverless The only way to do great work is to love what you do. Load Balancing Opportunities don't happen. You create them. NLP Edge Computing
