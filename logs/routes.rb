@@ -14,3 +14,4 @@ Server Response Code Review API Gateway JWT DevOps Performance Version Control L
 Version Control API Zero Downtime Deployment Frontend Database DevOps Containerization Python IoT JavaScript
 Success usually comes to those who are too busy to be looking for it. Replica Set React NLP JavaScript Security Database Zero Downtime Deployment Kubernetes Server Response
 Kubernetes Dream big and dare to fail. Big Data Frontend DNS Routing
+Docker Lambda Functions Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. OAuth Load Balancing JavaScript Stay hungry, stay foolish. JWT DNS Routing

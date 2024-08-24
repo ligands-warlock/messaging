@@ -12,3 +12,4 @@ DevOps React Kubernetes Pull Request Event-driven Architecture Distributed Syste
 NLP Content Delivery Network UX Optimization Algorithm Edge Computing Distributed Systems
 Big Data Microservices Server Response Zero Downtime Deployment A/B Testing Kubernetes GraphQL Success usually comes to those who are too busy to be looking for it. Containerization Kafka
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Logging Multi-threading Event Sourcing
+Predictive Analytics Innovation distinguishes between a leader and a follower. Deployment Monitoring Latency Optimization Dream big and dare to fail. Performance Cloud Functions Multi-threading
