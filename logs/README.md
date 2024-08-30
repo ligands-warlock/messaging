@@ -10,3 +10,4 @@ Distributed Systems Database Great things never come from comfort zones. CI/CD R
 Cloud Serverless JavaScript DNS Routing Content Delivery Network Container Orchestration
 DevOps React Kubernetes Pull Request Event-driven Architecture Distributed Systems Event Sourcing I find that the harder I work, the more luck I seem to have.
 NLP Content Delivery Network UX Optimization Algorithm Edge Computing Distributed Systems
+Big Data Microservices Server Response Zero Downtime Deployment A/B Testing Kubernetes GraphQL Success usually comes to those who are too busy to be looking for it. Containerization Kafka
