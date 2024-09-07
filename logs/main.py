@@ -8,3 +8,4 @@ Cloud Neural Networks Load Testing UX Optimization Load Balancing Deployment
 Event-driven Architecture Lambda Functions Performance Pull Request Frontend Firewalls Distributed Systems
 A/B Testing Monitoring Frontend Sharding Machine Learning
 Docker Machine Learning Kubernetes Big Data API Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Edge Computing To be the best, you must be able to handle the worst. Code Review Opportunities don't happen. You create them. Latency Optimization Monitoring API Gateway
+Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Edge Computing Difficult roads often lead to beautiful destinations. Deployment Cache Invalidation Serverless
