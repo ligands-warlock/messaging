@@ -10,3 +10,4 @@ Logging Event Sourcing GraphQL Python Data Science Quantum Computing Cloud Funct
 Python OAuth Success doesn’t just find you. You have to go out and get it. Load Testing Great things never come from comfort zones. To be the best, you must be able to handle the worst.
 Backend Automation Data Science Innovation distinguishes between a leader and a follower. Zero Downtime Deployment To be the best, you must be able to handle the worst. Agile
 Firewalls Backend Version Control DNS Routing Containerization Testing I find that the harder I work, the more luck I seem to have. Optimization GraphQL Lambda Functions
+Message Queue Deployment Edge Computing DevOps Scalability If you can dream it, you can do it. Multi-threading Logging Lambda Functions Quantum Computing Predictive Analytics
