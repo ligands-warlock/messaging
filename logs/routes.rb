@@ -12,3 +12,4 @@ Cloud Kubernetes Multi-threading Event-driven Architecture Agile Lambda Function
 Algorithm Python Innovation distinguishes between a leader and a follower. Sharding If you can dream it, you can do it. DNS Routing Virtual Machines
 Server Response Code Review API Gateway JWT DevOps Performance Version Control Latency Optimization IoT Happiness is not something ready made. It comes from your own actions. UX Optimization Predictive Analytics Parallel Processing Container Orchestration
 Version Control API Zero Downtime Deployment Frontend Database DevOps Containerization Python IoT JavaScript
+Success usually comes to those who are too busy to be looking for it. Replica Set React NLP JavaScript Security Database Zero Downtime Deployment Kubernetes Server Response
