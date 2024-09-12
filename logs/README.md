@@ -9,3 +9,4 @@ JWT Message Queue To be the best, you must be able to handle the worst. Predicti
 Distributed Systems Database Great things never come from comfort zones. CI/CD RabbitMQ GraphQL Quantum Computing Framework DNS Routing Serverless Python Monitoring
 Cloud Serverless JavaScript DNS Routing Content Delivery Network Container Orchestration
 DevOps React Kubernetes Pull Request Event-driven Architecture Distributed Systems Event Sourcing I find that the harder I work, the more luck I seem to have.
+NLP Content Delivery Network UX Optimization Algorithm Edge Computing Distributed Systems
