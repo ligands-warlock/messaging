@@ -7,3 +7,4 @@ API API Gateway Latency Optimization Cache Invalidation GraphQL Automation DevOp
 Cloud Neural Networks Load Testing UX Optimization Load Balancing Deployment
 Event-driven Architecture Lambda Functions Performance Pull Request Frontend Firewalls Distributed Systems
 A/B Testing Monitoring Frontend Sharding Machine Learning
+Docker Machine Learning Kubernetes Big Data API Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Edge Computing To be the best, you must be able to handle the worst. Code Review Opportunities don't happen. You create them. Latency Optimization Monitoring API Gateway
