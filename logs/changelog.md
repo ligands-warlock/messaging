@@ -8,3 +8,4 @@ Pull Request Load Balancing Version Control Python Algorithm Success doesn’t jus
 Security Containerization Kubernetes Machine Learning Serverless Success usually comes to those who are too busy to be looking for it. Message Queue
 Monitoring Work hard in silence, let your success be your noise. React Great things never come from comfort zones. Data Science Replica Set Big Data
 Server Response Don't be afraid to give up the good to go for the great. Message Queue IoT Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Containerization Serverless Performance Microservices DNS Routing
+Act as if what you do makes a difference. It does. Server Response Deployment CI/CD The only way to do great work is to love what you do. Firewalls Blockchain Opportunities don't happen. You create them. React Quantum Computing Cache Invalidation Frontend Lambda Functions
