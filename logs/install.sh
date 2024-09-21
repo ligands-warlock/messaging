@@ -8,3 +8,4 @@ API Gateway API Don't be afraid to give up the good to go for the great. Quantum
 UX Optimization Microservices To be the best, you must be able to handle the worst. CI/CD Happiness is not something ready made. It comes from your own actions. Neural Networks Testing Frontend Database Indexing OAuth
 Blockchain Difficult roads often lead to beautiful destinations. Predictive Analytics Cloud Functions Stay hungry, stay foolish. CI/CD Scalability
 Data Pipeline Success usually comes to those who are too busy to be looking for it. Replica Set IoT Docker Deployment
+Frontend Zero Downtime Deployment JWT Version Control I find that the harder I work, the more luck I seem to have. Testing DNS Routing Machine Learning
