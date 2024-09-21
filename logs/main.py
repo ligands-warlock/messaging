@@ -6,3 +6,4 @@ Agile Success doesn’t just find you. You have to go out and get it. UX Optimizat
 API API Gateway Latency Optimization Cache Invalidation GraphQL Automation DevOps Firewalls Cloud Functions JWT Distributed Systems The only way to do great work is to love what you do. Data Pipeline
 Cloud Neural Networks Load Testing UX Optimization Load Balancing Deployment
 Event-driven Architecture Lambda Functions Performance Pull Request Frontend Firewalls Distributed Systems
+A/B Testing Monitoring Frontend Sharding Machine Learning
