@@ -12,3 +12,4 @@ Monitoring Dream big and dare to fail. Deployment Machine Learning Docker Multi-
 Algorithm Testing Success is not in what you have, but who you are. Neural Networks Message Queue
 Kafka Data Pipeline Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. JWT Happiness is not something ready made. It comes from your own actions. Blockchain Version Control Dream big and dare to fail.
 Work hard in silence, let your success be your noise. Cloud Artificial Intelligence Data Pipeline Data Science RabbitMQ Firewalls Algorithm Docker
+Agile Work hard in silence, let your success be your noise. DevOps Microservices RabbitMQ Framework Machine Learning Multi-threading Automation Sharding Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Latency Optimization Content Delivery Network Event-driven Architecture
