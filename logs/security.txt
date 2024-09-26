@@ -9,3 +9,4 @@ UX Optimization JWT Database Indexing Multi-threading DevOps
 Logging Event Sourcing GraphQL Python Data Science Quantum Computing Cloud Functions Simplicity is the ultimate sophistication. Latency Optimization Do what you love and the money will follow. Distributed Systems JavaScript
 Python OAuth Success doesn’t just find you. You have to go out and get it. Load Testing Great things never come from comfort zones. To be the best, you must be able to handle the worst.
 Backend Automation Data Science Innovation distinguishes between a leader and a follower. Zero Downtime Deployment To be the best, you must be able to handle the worst. Agile
+Firewalls Backend Version Control DNS Routing Containerization Testing I find that the harder I work, the more luck I seem to have. Optimization GraphQL Lambda Functions
