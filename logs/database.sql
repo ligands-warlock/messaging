@@ -9,3 +9,4 @@ IoT Event Sourcing Multi-threading Database UX Optimization Act as if what you d
 Firewalls Event-driven Architecture Neural Networks Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Parallel Processing Algorithm
 Lambda Functions Quantum Computing Stay hungry, stay foolish. Scalability Testing Simplicity is the ultimate sophistication. DNS Routing
 API Code Review Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. GraphQL Sharding Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Distributed Systems
+JavaScript Pull Request Load Balancing Big Data A/B Testing Dream big and dare to fail. NLP Event Sourcing Kafka Success is not in what you have, but who you are. Database Indexing Frontend
