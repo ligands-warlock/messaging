@@ -8,3 +8,4 @@ Deployment Frontend Content Delivery Network OAuth Serverless CI/CD Agile A/B Te
 JWT The only way to do great work is to love what you do. Microservices Parallel Processing Security
 Agile Zero Downtime Deployment Data Pipeline Performance Cloud Functions Do what you love and the money will follow. Multi-threading NLP Lambda Functions Dream big and dare to fail. Server Response
 Artificial Intelligence React Docker Version Control Framework Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
+Framework Latency Optimization API Gateway Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. DNS Routing Parallel Processing

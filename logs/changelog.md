@@ -6,3 +6,4 @@ Event-driven Architecture Machine Learning Predictive Analytics Cloud Functions 
 UX Optimization Python Big Data Simplicity is the ultimate sophistication. Cache Invalidation Success is how high you bounce when you hit bottom. Edge Computing Scalability Firewalls Content Delivery Network Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Virtual Machines Stay hungry, stay foolish.
 Pull Request Load Balancing Version Control Python Algorithm Success doesn’t just find you. You have to go out and get it. Neural Networks Blockchain Deployment
 Security Containerization Kubernetes Machine Learning Serverless Success usually comes to those who are too busy to be looking for it. Message Queue
+Monitoring Work hard in silence, let your success be your noise. React Great things never come from comfort zones. Data Science Replica Set Big Data
