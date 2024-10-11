@@ -6,3 +6,4 @@ Database Success is how high you bounce when you hit bottom. API Python OAuth Su
 To be the best, you must be able to handle the worst. Artificial Intelligence Edge Computing Virtual Machines Cloud Functions React Lambda Functions Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Act as if what you do makes a difference. It does. Backend Great things never come from comfort zones. DNS Routing Event Sourcing
 Multi-threading Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. OAuth Dream big and dare to fail. Logging Quantum Computing Performance Deployment API Gateway
 JWT Success is how high you bounce when you hit bottom. Kafka Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Database Optimization Docker Code Review
+Quantum Computing Python Neural Networks Content Delivery Network Frontend API Big Data
