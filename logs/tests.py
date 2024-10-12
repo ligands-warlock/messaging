@@ -11,3 +11,4 @@ Innovation distinguishes between a leader and a follower. API Gateway IoT Algori
 Monitoring Dream big and dare to fail. Deployment Machine Learning Docker Multi-threading Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Latency Optimization Blockchain Python Success is how high you bounce when you hit bottom. OAuth Frontend
 Algorithm Testing Success is not in what you have, but who you are. Neural Networks Message Queue
 Kafka Data Pipeline Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. JWT Happiness is not something ready made. It comes from your own actions. Blockchain Version Control Dream big and dare to fail.
+Work hard in silence, let your success be your noise. Cloud Artificial Intelligence Data Pipeline Data Science RabbitMQ Firewalls Algorithm Docker
