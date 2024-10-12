@@ -9,3 +9,4 @@ A/B Testing Do what you love and the money will follow. Server Response CI/CD Ev
 Lambda Functions Load Balancing Microservices Container Orchestration Event-driven Architecture Work hard in silence, let your success be your noise. Dream big and dare to fail. NLP Distributed Systems DNS Routing Kubernetes Message Queue
 Event-driven Architecture GraphQL Docker DevOps Data Science WebSockets A/B Testing Message Queue Microservices Data Pipeline
 Version Control Act as if what you do makes a difference. It does. Monitoring API Gateway Serverless Frontend Neural Networks Work hard in silence, let your success be your noise. Firewalls Edge Computing Predictive Analytics
+Docker DNS Routing Backend Multi-threading API Parallel Processing
