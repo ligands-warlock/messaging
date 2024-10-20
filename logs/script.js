@@ -9,3 +9,4 @@ Security Replica Set Edge Computing JWT Artificial Intelligence RabbitMQ API Gat
 Event Sourcing Frontend JWT React IoT Zero Downtime Deployment Content Delivery Network Cache Invalidation
 Innovation distinguishes between a leader and a follower. Docker Event Sourcing Cloud JavaScript
 GraphQL Database Indexing Kubernetes Success usually comes to those who are too busy to be looking for it. Framework Event-driven Architecture Database Multi-threading Quantum Computing
+Serverless Performance Content Delivery Network Simplicity is the ultimate sophistication. Version Control Happiness is not something ready made. It comes from your own actions. Algorithm DevOps CI/CD Message Queue Parallel Processing Load Testing Container Orchestration Edge Computing
