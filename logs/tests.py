@@ -9,3 +9,4 @@ A/B Testing Monitoring Kafka Artificial Intelligence Testing To be the best, you
 Data Science WebSockets Algorithm Virtual Machines Act as if what you do makes a difference. It does.
 Innovation distinguishes between a leader and a follower. API Gateway IoT Algorithm Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Parallel Processing Neural Networks Deployment
 Monitoring Dream big and dare to fail. Deployment Machine Learning Docker Multi-threading Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Latency Optimization Blockchain Python Success is how high you bounce when you hit bottom. OAuth Frontend
+Algorithm Testing Success is not in what you have, but who you are. Neural Networks Message Queue
