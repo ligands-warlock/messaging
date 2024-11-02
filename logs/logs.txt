@@ -6,3 +6,4 @@ Database Indexing Success is how high you bounce when you hit bottom. Blockchain
 The only way to do great work is to love what you do. Microservices I find that the harder I work, the more luck I seem to have. Sharding Replica Set Message Queue Frontend Kafka
 Virtual Machines Opportunities don't happen. You create them. Parallel Processing Multi-threading Microservices WebSockets Scalability Latency Optimization Container Orchestration If you can dream it, you can do it.
 Logging Message Queue Automation Server Response IoT Monitoring Performance Big Data Success is how high you bounce when you hit bottom. JWT Lambda Functions
+GraphQL Great things never come from comfort zones. To be the best, you must be able to handle the worst. Microservices Event-driven Architecture Zero Downtime Deployment Big Data
