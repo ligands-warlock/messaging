@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. Framework Blockchain Dream big and da
 API Gateway Database Code Review Data Science Optimization Cloud Functions
 Logging Message Queue GraphQL Latency Optimization Database Quantum Computing Blockchain Parallel Processing JavaScript
 Serverless Cloud Stay hungry, stay foolish. Latency Optimization Don't be afraid to give up the good to go for the great. Kafka Docker Difficult roads often lead to beautiful destinations. Microservices Work hard in silence, let your success be your noise. DNS Routing Parallel Processing Data Pipeline Data Science Simplicity is the ultimate sophistication.
+A/B Testing To be the best, you must be able to handle the worst. CI/CD Latency Optimization Parallel Processing Python Container Orchestration DevOps Serverless
