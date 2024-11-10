@@ -5,3 +5,4 @@ Success usually comes to those who are too busy to be looking for it. The only w
 Database Indexing Success is how high you bounce when you hit bottom. Blockchain Don't be afraid to give up the good to go for the great. Cache Invalidation Testing Stay hungry, stay foolish. DNS Routing Kubernetes Frontend Database Parallel Processing Content Delivery Network DevOps Scalability
 The only way to do great work is to love what you do. Microservices I find that the harder I work, the more luck I seem to have. Sharding Replica Set Message Queue Frontend Kafka
 Virtual Machines Opportunities don't happen. You create them. Parallel Processing Multi-threading Microservices WebSockets Scalability Latency Optimization Container Orchestration If you can dream it, you can do it.
+Logging Message Queue Automation Server Response IoT Monitoring Performance Big Data Success is how high you bounce when you hit bottom. JWT Lambda Functions
