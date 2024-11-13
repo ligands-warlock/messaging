@@ -7,3 +7,4 @@ Replica Set CI/CD A/B Testing Edge Computing Opportunities don't happen. You cre
 Replica Set Dream big and dare to fail. React GraphQL Do what you love and the money will follow. Frontend
 A/B Testing Monitoring Kafka Artificial Intelligence Testing To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Zero Downtime Deployment API Gateway Sharding Version Control
 Data Science WebSockets Algorithm Virtual Machines Act as if what you do makes a difference. It does.
+Innovation distinguishes between a leader and a follower. API Gateway IoT Algorithm Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Parallel Processing Neural Networks Deployment

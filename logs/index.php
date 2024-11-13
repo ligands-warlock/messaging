@@ -4,3 +4,4 @@ UX Optimization Dream big and dare to fail. Don't be afraid to give up the good 
 Simplicity is the ultimate sophistication. Framework Blockchain Dream big and dare to fail. Artificial Intelligence Distributed Systems DevOps A/B Testing Happiness is not something ready made. It comes from your own actions. Database Great things never come from comfort zones.
 API Gateway Database Code Review Data Science Optimization Cloud Functions
 Logging Message Queue GraphQL Latency Optimization Database Quantum Computing Blockchain Parallel Processing JavaScript
+Serverless Cloud Stay hungry, stay foolish. Latency Optimization Don't be afraid to give up the good to go for the great. Kafka Docker Difficult roads often lead to beautiful destinations. Microservices Work hard in silence, let your success be your noise. DNS Routing Parallel Processing Data Pipeline Data Science Simplicity is the ultimate sophistication.
