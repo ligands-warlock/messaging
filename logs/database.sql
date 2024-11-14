@@ -7,3 +7,4 @@ RabbitMQ Frontend Innovation distinguishes between a leader and a follower. Succ
 Frontend WebSockets Event-driven Architecture DevOps Firewalls Innovation distinguishes between a leader and a follower. Edge Computing Deployment Database Indexing JWT Backend Artificial Intelligence Monitoring Work hard in silence, let your success be your noise.
 IoT Event Sourcing Multi-threading Database UX Optimization Act as if what you do makes a difference. It does. Pull Request Artificial Intelligence Logging React
 Firewalls Event-driven Architecture Neural Networks Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Parallel Processing Algorithm
+Lambda Functions Quantum Computing Stay hungry, stay foolish. Scalability Testing Simplicity is the ultimate sophistication. DNS Routing
