@@ -9,3 +9,4 @@ Python Algorithm Latency Optimization CI/CD To be the best, you must be able to 
 Kubernetes Containerization Sharding Multi-threading Optimization OAuth Event-driven Architecture Performance Code Review DevOps Great things never come from comfort zones. GraphQL
 Quantum Computing Data Pipeline Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Version Control Zero Downtime Deployment
 Framework Code Review Opportunities don't happen. You create them. Event Sourcing Multi-threading Security Success is how high you bounce when you hit bottom. Content Delivery Network
+JavaScript Container Orchestration Docker Artificial Intelligence Cloud Functions Quantum Computing Logging Kafka The only way to do great work is to love what you do. NLP Algorithm Work hard in silence, let your success be your noise. OAuth Opportunities don't happen. You create them.
