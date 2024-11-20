@@ -8,3 +8,4 @@ Code Review If you can dream it, you can do it. Server Response OAuth Difficult 
 Security Replica Set Edge Computing JWT Artificial Intelligence RabbitMQ API Gateway Opportunities don't happen. You create them. OAuth Stay hungry, stay foolish.
 Event Sourcing Frontend JWT React IoT Zero Downtime Deployment Content Delivery Network Cache Invalidation
 Innovation distinguishes between a leader and a follower. Docker Event Sourcing Cloud JavaScript
+GraphQL Database Indexing Kubernetes Success usually comes to those who are too busy to be looking for it. Framework Event-driven Architecture Database Multi-threading Quantum Computing

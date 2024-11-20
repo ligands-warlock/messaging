@@ -5,3 +5,4 @@ Microservices Pull Request Machine Learning Do what you love and the money will 
 Success is how high you bounce when you hit bottom. API Gateway Lambda Functions JWT Testing
 RabbitMQ Frontend Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Data Pipeline Data Science Docker DevOps Difficult roads often lead to beautiful destinations. API Gateway Database Indexing CI/CD Success usually comes to those who are too busy to be looking for it. Agile WebSockets
 Frontend WebSockets Event-driven Architecture DevOps Firewalls Innovation distinguishes between a leader and a follower. Edge Computing Deployment Database Indexing JWT Backend Artificial Intelligence Monitoring Work hard in silence, let your success be your noise.
+IoT Event Sourcing Multi-threading Database UX Optimization Act as if what you do makes a difference. It does. Pull Request Artificial Intelligence Logging React
