@@ -6,3 +6,4 @@ Pull Request API Serverless CI/CD Data Pipeline If you can dream it, you can do 
 Quantum Computing Python WebSockets NLP Data Pipeline Cloud Predictive Analytics Distributed Systems OAuth
 Replica Set To be the best, you must be able to handle the worst. Deployment Artificial Intelligence Code Review Python Event-driven Architecture Dream big and dare to fail. Backend Logging Algorithm Load Balancing API JavaScript Lambda Functions
 UX Optimization JWT Database Indexing Multi-threading DevOps
+Logging Event Sourcing GraphQL Python Data Science Quantum Computing Cloud Functions Simplicity is the ultimate sophistication. Latency Optimization Do what you love and the money will follow. Distributed Systems JavaScript
