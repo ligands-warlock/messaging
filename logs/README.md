@@ -5,3 +5,4 @@ Do what you love and the money will follow. The only way to do great work is to 
 JWT Frontend If you can dream it, you can do it. Agile Load Testing Monitoring Virtual Machines Containerization Kubernetes
 Difficult roads often lead to beautiful destinations. Optimization Lambda Functions Frontend Load Testing Microservices Kubernetes
 Do what you love and the money will follow. Opportunities don't happen. You create them. Optimization Serverless Containerization Distributed Systems
+JWT Message Queue To be the best, you must be able to handle the worst. Predictive Analytics IoT Content Delivery Network Algorithm Quantum Computing Happiness is not something ready made. It comes from your own actions. Frontend Python Performance Data Pipeline Testing Success is how high you bounce when you hit bottom.
