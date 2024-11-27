@@ -4,3 +4,4 @@ Edge Computing Scalability Microservices Opportunities don't happen. You create 
 Serverless Pull Request Performance Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Machine Learning RabbitMQ Testing Monitoring
 Pull Request API Serverless CI/CD Data Pipeline If you can dream it, you can do it. GraphQL Edge Computing JWT A/B Testing
 Quantum Computing Python WebSockets NLP Data Pipeline Cloud Predictive Analytics Distributed Systems OAuth
+Replica Set To be the best, you must be able to handle the worst. Deployment Artificial Intelligence Code Review Python Event-driven Architecture Dream big and dare to fail. Backend Logging Algorithm Load Balancing API JavaScript Lambda Functions
