@@ -8,3 +8,4 @@ Kubernetes Simplicity is the ultimate sophistication. Event Sourcing Artificial 
 Python Algorithm Latency Optimization CI/CD To be the best, you must be able to handle the worst. Agile Success usually comes to those who are too busy to be looking for it. Logging IoT Success is not in what you have, but who you are.
 Kubernetes Containerization Sharding Multi-threading Optimization OAuth Event-driven Architecture Performance Code Review DevOps Great things never come from comfort zones. GraphQL
 Quantum Computing Data Pipeline Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Version Control Zero Downtime Deployment
+Framework Code Review Opportunities don't happen. You create them. Event Sourcing Multi-threading Security Success is how high you bounce when you hit bottom. Content Delivery Network
