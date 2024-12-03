@@ -7,3 +7,4 @@ Kafka DevOps Do what you love and the money will follow. Lambda Functions Diffic
 Code Review If you can dream it, you can do it. Server Response OAuth Difficult roads often lead to beautiful destinations. Quantum Computing Do what you love and the money will follow. Optimization Pull Request Event-driven Architecture Work hard in silence, let your success be your noise.
 Security Replica Set Edge Computing JWT Artificial Intelligence RabbitMQ API Gateway Opportunities don't happen. You create them. OAuth Stay hungry, stay foolish.
 Event Sourcing Frontend JWT React IoT Zero Downtime Deployment Content Delivery Network Cache Invalidation
+Innovation distinguishes between a leader and a follower. Docker Event Sourcing Cloud JavaScript
