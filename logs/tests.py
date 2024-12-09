@@ -4,3 +4,4 @@ Edge Computing Monitoring Containerization Backend Frontend Python Docker Artifi
 Opportunities don't happen. You create them. Security Multi-threading Automation Frontend
 Performance Microservices Virtual Machines Do what you love and the money will follow. Testing Security Opportunities don't happen. You create them.
 Replica Set CI/CD A/B Testing Edge Computing Opportunities don't happen. You create them. Predictive Analytics Artificial Intelligence Data Pipeline Sharding Monitoring Server Response Docker Distributed Systems Blockchain Frontend
+Replica Set Dream big and dare to fail. React GraphQL Do what you love and the money will follow. Frontend
