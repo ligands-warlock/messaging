@@ -5,3 +5,4 @@ Performance API Gateway Backend Neural Networks Kubernetes Frontend Agile Stay h
 Predictive Analytics Quantum Computing Message Queue Performance Code Review Replica Set Containerization GraphQL DNS Routing WebSockets Pull Request Data Pipeline
 Do what you love and the money will follow. Automation Pull Request Load Balancing The only way to do great work is to love what you do. Server Response
 Load Balancing Kafka Success doesn’t just find you. You have to go out and get it. Predictive Analytics Opportunities don't happen. You create them. Serverless Microservices Success is not in what you have, but who you are. If you can dream it, you can do it.
+Quantum Computing Database Indexing Work hard in silence, let your success be your noise. Kafka Message Queue Container Orchestration If you can dream it, you can do it. Containerization
