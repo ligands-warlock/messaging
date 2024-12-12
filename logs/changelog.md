@@ -1,3 +1,4 @@
 Python DNS Routing Frontend Neural Networks Containerization Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Load Balancing Dream big and dare to fail. Do what you love and the money will follow.
 Dream big and dare to fail. IoT Success usually comes to those who are too busy to be looking for it. Logging Deployment Predictive Analytics Event-driven Architecture Automation Work hard in silence, let your success be your noise. API Load Balancing Sharding Load Testing
 Stay hungry, stay foolish. OAuth Simplicity is the ultimate sophistication. Content Delivery Network NLP Frontend Message Queue Microservices Code Review Automation Event-driven Architecture
+Load Testing Automation I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Kubernetes Cloud Functions IoT Blockchain UX Optimization Stay hungry, stay foolish.
