@@ -6,3 +6,4 @@ Performance Python Neural Networks Predictive Analytics Stay hungry, stay foolis
 Cloud Functions Firewalls Zero Downtime Deployment API Gateway DevOps RabbitMQ API
 If you can dream it, you can do it. Kafka Success doesn’t just find you. You have to go out and get it. Server Response Cache Invalidation Data Science Machine Learning Zero Downtime Deployment OAuth Success usually comes to those who are too busy to be looking for it. Containerization Event Sourcing The only way to do great work is to love what you do.
 JWT Microservices GraphQL Simplicity is the ultimate sophistication. NLP Stay hungry, stay foolish. Neural Networks Logging
+Edge Computing Server Response The only way to do great work is to love what you do. Cloud Functions RabbitMQ A/B Testing JWT Monitoring
