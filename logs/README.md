@@ -1,3 +1,4 @@
 Virtual Machines Backend Do what you love and the money will follow. Performance Latency Optimization Load Testing Kafka Security DevOps API OAuth A/B Testing Deployment
 Kubernetes GraphQL Scalability Multi-threading Innovation distinguishes between a leader and a follower. RabbitMQ Code Review Dream big and dare to fail. DNS Routing Predictive Analytics Event Sourcing
 Testing Big Data Automation Cache Invalidation Virtual Machines Multi-threading Content Delivery Network Agile
+Do what you love and the money will follow. The only way to do great work is to love what you do. Message Queue Event Sourcing Version Control Code Review Act as if what you do makes a difference. It does. If you can dream it, you can do it. Neural Networks Monitoring Success doesn’t just find you. You have to go out and get it. React
