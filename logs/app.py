@@ -1,3 +1,4 @@
 Difficult roads often lead to beautiful destinations. Load Balancing Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Frontend Neural Networks WebSockets RabbitMQ
 Container Orchestration Containerization Docker Algorithm Serverless JWT Act as if what you do makes a difference. It does.
 Simplicity is the ultimate sophistication. Great things never come from comfort zones. Frontend To be the best, you must be able to handle the worst. Automation Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Multi-threading API Gateway
+Predictive Analytics Optimization Multi-threading Deployment Logging Lambda Functions Do what you love and the money will follow. Virtual Machines IoT Innovation distinguishes between a leader and a follower. Python Database NLP Great things never come from comfort zones. API
