@@ -5,3 +5,4 @@ To be the best, you must be able to handle the worst. API Gateway CI/CD Security
 Server Response Backend Replica Set Containerization Lambda Functions
 Stay hungry, stay foolish. Microservices Cloud Functions RabbitMQ Serverless Simplicity is the ultimate sophistication. Version Control Dream big and dare to fail. Agile Predictive Analytics Innovation distinguishes between a leader and a follower. Algorithm
 Latency Optimization Zero Downtime Deployment Event-driven Architecture Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Container Orchestration Serverless Database Kafka Database Indexing Server Response
+Content Delivery Network Cache Invalidation Code Review Event-driven Architecture Optimization Scalability Success doesn’t just find you. You have to go out and get it. Edge Computing DNS Routing Container Orchestration Database Logging
