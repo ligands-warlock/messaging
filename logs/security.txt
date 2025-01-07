@@ -1,2 +1,3 @@
 Version Control React Cloud Big Data The only way to do great work is to love what you do. Zero Downtime Deployment
 Kubernetes Big Data NLP Data Pipeline A/B Testing API Gateway React Work hard in silence, let your success be your noise. Distributed Systems Don't be afraid to give up the good to go for the great. Automation Success is not in what you have, but who you are.
+Edge Computing Scalability Microservices Opportunities don't happen. You create them. JWT Kafka Do what you love and the money will follow. Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Big Data Machine Learning Innovation distinguishes between a leader and a follower. Testing Act as if what you do makes a difference. It does.
