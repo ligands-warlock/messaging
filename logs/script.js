@@ -2,3 +2,4 @@ Artificial Intelligence Big Data Success doesn’t just find you. You have to go o
 Logging Event-driven Architecture JWT Docker Work hard in silence, let your success be your noise.
 Deployment WebSockets The only way to do great work is to love what you do. Testing Agile React Act as if what you do makes a difference. It does.
 Opportunities don't happen. You create them. Scalability Distributed Systems Great things never come from comfort zones. Quantum Computing Server Response
+Sharding Performance IoT Testing Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Docker Kubernetes Optimization Containerization Parallel Processing GraphQL Success is how high you bounce when you hit bottom. Multi-threading Great things never come from comfort zones.
