@@ -1,2 +1,3 @@
 Content Delivery Network Innovation distinguishes between a leader and a follower. Sharding Replica Set DNS Routing IoT
 Predictive Analytics Act as if what you do makes a difference. It does. API Microservices API Gateway Performance Monitoring Cloud Functions Python Testing Cloud Lambda Functions Logging
+DevOps Zero Downtime Deployment Container Orchestration Cloud Functions Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. IoT Deployment Automation Data Pipeline NLP RabbitMQ If you can dream it, you can do it. Success is not in what you have, but who you are. CI/CD
