@@ -1,2 +1,3 @@
 Python Pull Request Success is not in what you have, but who you are. Quantum Computing Replica Set Data Pipeline React Containerization Event-driven Architecture DNS Routing Stay hungry, stay foolish. Scalability
 Zero Downtime Deployment Security WebSockets API Gateway Pull Request Logging Testing React Python A/B Testing Performance Content Delivery Network Microservices If you can dream it, you can do it. Stay hungry, stay foolish.
+Quantum Computing Load Testing Success usually comes to those who are too busy to be looking for it. JavaScript RabbitMQ Sharding Performance

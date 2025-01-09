@@ -1,1 +1,2 @@
 Do what you love and the money will follow. Multi-threading Frontend DNS Routing Distributed Systems Security Success doesn’t just find you. You have to go out and get it. Replica Set Artificial Intelligence
+Success is not in what you have, but who you are. Testing Kubernetes Firewalls Act as if what you do makes a difference. It does. Automation A/B Testing Virtual Machines Neural Networks Difficult roads often lead to beautiful destinations. Kafka Event Sourcing Framework Cloud Functions
