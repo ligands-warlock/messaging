@@ -3,3 +3,4 @@ NLP Frontend Algorithm Kafka Python Data Science Performance Zero Downtime Deplo
 Serverless Opportunities don't happen. You create them. Machine Learning Code Review Artificial Intelligence Content Delivery Network Deployment
 Microservices Pull Request Machine Learning Do what you love and the money will follow. RabbitMQ
 Success is how high you bounce when you hit bottom. API Gateway Lambda Functions JWT Testing
+RabbitMQ Frontend Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Data Pipeline Data Science Docker DevOps Difficult roads often lead to beautiful destinations. API Gateway Database Indexing CI/CD Success usually comes to those who are too busy to be looking for it. Agile WebSockets
