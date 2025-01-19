@@ -1,1 +1,2 @@
 Version Control React Cloud Big Data The only way to do great work is to love what you do. Zero Downtime Deployment
+Kubernetes Big Data NLP Data Pipeline A/B Testing API Gateway React Work hard in silence, let your success be your noise. Distributed Systems Don't be afraid to give up the good to go for the great. Automation Success is not in what you have, but who you are.
