@@ -2,3 +2,4 @@ Monitoring Quantum Computing The only way to do great work is to love what you d
 NLP Frontend Algorithm Kafka Python Data Science Performance Zero Downtime Deployment Multi-threading Virtual Machines IoT Edge Computing Optimization Blockchain
 Serverless Opportunities don't happen. You create them. Machine Learning Code Review Artificial Intelligence Content Delivery Network Deployment
 Microservices Pull Request Machine Learning Do what you love and the money will follow. RabbitMQ
+Success is how high you bounce when you hit bottom. API Gateway Lambda Functions JWT Testing
