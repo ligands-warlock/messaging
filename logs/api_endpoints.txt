@@ -1,2 +1,3 @@
 Virtual Machines OAuth Kubernetes Frontend Database Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Neural Networks Great things never come from comfort zones. To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations.
 JWT Cloud Cloud Functions Scalability DevOps Database Frontend Dream big and dare to fail. Performance Difficult roads often lead to beautiful destinations. Framework Success is how high you bounce when you hit bottom.
+Framework JWT Firewalls Sharding Success is how high you bounce when you hit bottom. Testing Content Delivery Network Neural Networks Security Great things never come from comfort zones. Containerization If you can dream it, you can do it.
