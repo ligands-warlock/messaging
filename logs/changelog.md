@@ -1,1 +1,2 @@
 Python DNS Routing Frontend Neural Networks Containerization Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Load Balancing Dream big and dare to fail. Do what you love and the money will follow.
+Dream big and dare to fail. IoT Success usually comes to those who are too busy to be looking for it. Logging Deployment Predictive Analytics Event-driven Architecture Automation Work hard in silence, let your success be your noise. API Load Balancing Sharding Load Testing
