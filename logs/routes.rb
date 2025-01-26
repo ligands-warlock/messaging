@@ -2,3 +2,4 @@ I find that the harder I work, the more luck I seem to have. Monitoring Multi-th
 RabbitMQ Event Sourcing Zero Downtime Deployment Framework Load Testing Do what you love and the money will follow. JWT Cache Invalidation Logging
 Version Control Success is how high you bounce when you hit bottom. Multi-threading Backend Stay hungry, stay foolish.
 To be the best, you must be able to handle the worst. API Gateway CI/CD Security Machine Learning Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom.
+Server Response Backend Replica Set Containerization Lambda Functions
