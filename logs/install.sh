@@ -1,1 +1,2 @@
 Container Orchestration Big Data I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Pull Request NLP Deployment
+Quantum Computing Cache Invalidation Containerization Automation Distributed Systems Success is how high you bounce when you hit bottom. Big Data Sharding Latency Optimization Multi-threading The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. OAuth UX Optimization Dream big and dare to fail.
